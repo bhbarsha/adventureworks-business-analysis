@@ -99,4 +99,4 @@ Thanks for checking out my project!
 
 This query ranks products within each category based on total sales using CTEs and the RANK() window function.
 
-![Product Ranking Analysis](sql/product_category_ranking.png)
+![Product Ranking Analysis](product_category_ranking.png)

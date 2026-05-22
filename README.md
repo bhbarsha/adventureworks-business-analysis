@@ -91,3 +91,12 @@ I’m currently building my skills in:
 I enjoy learning through hands-on projects and using data to solve business problems.
 
 Thanks for checking out my project!
+
+
+# Sample SQL Analysis
+
+## Product Ranking by Category Using CTEs and Window Functions
+
+This query ranks products within each category based on total sales using CTEs and the RANK() window function.
+
+![Product Ranking Analysis](product_category_ranking.png)

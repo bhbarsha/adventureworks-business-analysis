@@ -91,7 +91,7 @@ I’m currently building my skills in:
 I enjoy learning through hands-on projects and using data to solve business problems.
 
 Thanks for checking out my project!
-
+---
 
 # Sample SQL Analysis
 
